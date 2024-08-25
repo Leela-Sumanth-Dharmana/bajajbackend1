@@ -26,7 +26,7 @@ route.post("/bhfl",(req,res)=>{
     const data={
         "is_success": true,
         "user_id": "leelasumanth_dharmana_06122003",
-         "email": "leelasumanth999@gmail.com",
+         "email": "sumanth.21bce9002@vitapstudent.ac.in",
         "rollnumber":"21BCE9002",
         "numbers": numbers,
         "alphabets": alpha,
